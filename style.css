@@ -9,7 +9,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image:url(Images/Underwater.png);
+    background-image:url(images/Underwater.png);
     background-position: center;
     background-size: cover;
     position: relative;
